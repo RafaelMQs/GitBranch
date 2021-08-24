@@ -8,7 +8,7 @@ public class soma {
 		System.out.println("A soma dos dois numeros é: "+(num1 + num2));
 		System.out.println("A subtração dos dois numeros é: "+(num1 - num2));
 		System.out.println("A multiplicação dos dois numeros é: "+(num1 * num2));
-		
+		System.out.println("A divisão dos dois numeros é: "+(num1 / num2));
 	}
 
 }
